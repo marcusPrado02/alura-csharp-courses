@@ -17,7 +17,3 @@ Se você realizou os cursos da Alura e deseja contribuir com seus próprios exer
 ## Sobre a Alura
 
 A [Alura](https://www.alura.com.br/) é uma plataforma brasileira de ensino online que oferece uma ampla variedade de cursos nas áreas de tecnologia, negócios e criatividade. Se você ainda não conhece, recomendo explorar sua gama de cursos para aprimorar ainda mais suas habilidades em programação e desenvolvimento de software.
-
----
-
-Esse README proporciona uma visão geral dos cursos de C# da Alura que você completou e convida outros desenvolvedores a contribuírem com seus próprios exercícios e soluções.
